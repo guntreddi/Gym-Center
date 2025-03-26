@@ -6,21 +6,21 @@ import { motion } from "framer-motion";
 
 const testimonialsData = [
   {
-    name: "John Doe",
+    name: "mahesh babu",
     feedback: "Joining this gym has been the best decision! I've achieved great results with the support of experienced trainers.",
-    image: "https://via.placeholder.com/80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBpd5MqRCKgPSJedo2J_zkoN88fq-1GXStZYudxtIDMYq2IlTZmGbmI34WlFEqFZ7PT8&usqp=CAU",
     rating: 5,
   },
   {
-    name: "Jane Smith",
+    name: "kalyan bubu",
     feedback: "Amazing environment, well-maintained equipment, and friendly staff. Highly recommended!",
-    image: "https://via.placeholder.com/80",
+    image: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201301/pawan-kalyan_660_010213011845.jpg?VersionId=KbS5SBc1WzZub73nKaOaVht2CxvyPNtl",
     rating: 4,
   },
   {
-    name: "Mike Johnson",
+    name: "vijay",
     feedback: "The group classes are super fun, and I've met a lot of like-minded fitness enthusiasts!",
-    image: "https://via.placeholder.com/80",
+    image: "https://wallpapers.com/images/hd/confident-south-hero-movie-still-m3j1q6hp1d9pcfb2.jpg",
     rating: 5,
   },
 ];
